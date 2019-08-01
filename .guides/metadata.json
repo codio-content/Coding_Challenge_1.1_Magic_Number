@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "4a4d4832-530d-e354-c9fe-72ff70caa64f",
+   "title": "Magic Number",
+   "files": [
+    {
+     "path": "challenge1.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Magic-Number-4a4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "85fb7e0a-eedb-bb03-5955-761f41f2a377",
+   "title": "Teacher section",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Teacher-section-85fb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
